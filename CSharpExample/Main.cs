@@ -60,6 +60,11 @@ namespace CSharpExample
         int nonStaticInt = 0;
         string testString = "Hello world!";
 
+        public Main()
+        {
+        
+        }
+
         public void Bruh<Type>()
         {
             Type b;

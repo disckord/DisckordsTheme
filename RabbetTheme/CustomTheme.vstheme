@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="RabbetTheme (4)" GUID="{3ec5bbe1-8718-4a09-9f0b-d5a0184a0233}" BaseGUID="{52104235-f9e4-418c-9913-cf3dfc01089f}">
+  <Theme Name="RabbetTheme (5)" GUID="{906d9a18-bd13-41db-b437-17fe9d2784ec}" BaseGUID="{3ec5bbe1-8718-4a09-9f0b-d5a0184a0233}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF818181" />
