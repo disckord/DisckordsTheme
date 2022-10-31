@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="RabbetTheme (5)" GUID="{906d9a18-bd13-41db-b437-17fe9d2784ec}" BaseGUID="{3ec5bbe1-8718-4a09-9f0b-d5a0184a0233}">
+  <Theme Name="RabbetTheme (7)" GUID="{6aa48ca8-6fe4-4efd-a4b2-b639150f9fe1}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF818181" />
@@ -1911,7 +1911,7 @@
         <Foreground Type="CT_RAW" Source="FFCE9178" />
       </Color>
       <Color Name="punctuation">
-        <Background Type="CT_RAW" Source="FF131313" />
+        <Background Type="CT_RAW" Source="00171717" />
         <Foreground Type="CT_RAW" Source="FFA3ACAB" />
       </Color>
       <Color Name="string - verbatim">
@@ -2280,7 +2280,7 @@
       </Color>
       <Color Name="CSS Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FFB63C20" />
       </Color>
       <Color Name="CSS Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -3437,7 +3437,7 @@
         <Background Type="CT_RAW" Source="80F2F2F2" />
       </Color>
       <Color Name="Background">
-        <Background Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="BrandedUIBackground">
         <Background Type="CT_RAW" Source="FF030303" />
@@ -3728,13 +3728,13 @@
         <Background Type="CT_RAW" Source="FF4B4B4B" />
       </Color>
       <Color Name="CommandBarGradientBegin">
-        <Background Type="CT_RAW" Source="FF262626" />
+        <Background Type="CT_RAW" Source="00262626" />
       </Color>
       <Color Name="CommandBarGradientEnd">
-        <Background Type="CT_RAW" Source="FF262626" />
+        <Background Type="CT_RAW" Source="00262626" />
       </Color>
       <Color Name="CommandBarGradientMiddle">
-        <Background Type="CT_RAW" Source="FF262626" />
+        <Background Type="CT_RAW" Source="00262626" />
       </Color>
       <Color Name="CommandBarHover">
         <Background Type="CT_RAW" Source="FF4B4B4B" />
@@ -3930,7 +3930,7 @@
         <Background Type="CT_RAW" Source="FF818181" />
       </Color>
       <Color Name="CommandBarToolBarBorder">
-        <Background Type="CT_RAW" Source="FF262626" />
+        <Background Type="CT_RAW" Source="00262626" />
       </Color>
       <Color Name="CommandBarToolBarSeparator">
         <Background Type="CT_RAW" Source="FFB6B6B6" />
@@ -3939,22 +3939,22 @@
         <Background Type="CT_RAW" Source="FFB6B6B6" />
       </Color>
       <Color Name="CommandShelfBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="FF262626" />
+        <Background Type="CT_RAW" Source="00262626" />
       </Color>
       <Color Name="CommandShelfBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="FF262626" />
+        <Background Type="CT_RAW" Source="00262626" />
       </Color>
       <Color Name="CommandShelfBackgroundGradientMiddle">
-        <Background Type="CT_RAW" Source="FF262626" />
+        <Background Type="CT_RAW" Source="00262626" />
       </Color>
       <Color Name="CommandShelfHighlightGradientBegin">
-        <Background Type="CT_RAW" Source="FF262626" />
+        <Background Type="CT_RAW" Source="00262626" />
       </Color>
       <Color Name="CommandShelfHighlightGradientEnd">
-        <Background Type="CT_RAW" Source="FF262626" />
+        <Background Type="CT_RAW" Source="00262626" />
       </Color>
       <Color Name="CommandShelfHighlightGradientMiddle">
-        <Background Type="CT_RAW" Source="FF262626" />
+        <Background Type="CT_RAW" Source="00262626" />
       </Color>
       <Color Name="CompletionBorder">
         <Background Type="CT_RAW" Source="FF262626" />
@@ -4213,20 +4213,20 @@
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="EnvironmentBackground">
-        <Background Type="CT_RAW" Source="FF030303" />
+        <Background Type="CT_RAW" Source="00030303" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="FF2D2D30" />
-        <Foreground Type="CT_RAW" Source="FF030303" />
+        <Background Type="CT_RAW" Source="002D2D30" />
+        <Foreground Type="CT_RAW" Source="00030303" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="FF030303" />
+        <Background Type="CT_RAW" Source="00030303" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientMiddle1">
-        <Background Type="CT_RAW" Source="FF030303" />
+        <Background Type="CT_RAW" Source="00030303" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientMiddle2">
-        <Background Type="CT_RAW" Source="FF030303" />
+        <Background Type="CT_RAW" Source="00030303" />
       </Color>
       <Color Name="EnvironmentBackgroundTexture1">
         <Background Type="CT_RAW" Source="FF030303" />
@@ -4700,7 +4700,7 @@
         <Background Type="CT_RAW" Source="FF818181" />
       </Color>
       <Color Name="MainWindowActiveCaption">
-        <Background Type="CT_RAW" Source="FF262626" />
+        <Background Type="CT_RAW" Source="00262626" />
         <Foreground Type="CT_RAW" Source="FF818181" />
       </Color>
       <Color Name="MainWindowActiveDebuggingBorder">
@@ -5692,10 +5692,10 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="Window">
-        <Background Type="CT_RAW" Source="FF131313" />
+        <Background Type="CT_RAW" Source="00131313" />
       </Color>
       <Color Name="WindowFrame">
-        <Background Type="CT_RAW" Source="FF131313" />
+        <Background Type="CT_RAW" Source="00131313" />
       </Color>
       <Color Name="WindowText">
         <Background Type="CT_RAW" Source="FFA3ACAB" />
@@ -7831,23 +7831,23 @@
     </Category>
     <Category Name="Text Editor Language Service Items" GUID="{e0187991-b458-4f7e-8ca9-42c9a573b56c}">
       <Color Name="Keyword">
-        <Background Type="CT_RAW" Source="FF131313" />
+        <Background Type="CT_RAW" Source="00131313" />
         <Foreground Type="CT_RAW" Source="FFB63C20" />
       </Color>
       <Color Name="Comment">
-        <Background Type="CT_RAW" Source="FF131313" />
+        <Background Type="CT_RAW" Source="00131313" />
         <Foreground Type="CT_RAW" Source="FF6A9955" />
       </Color>
       <Color Name="Identifier">
-        <Background Type="CT_RAW" Source="FF131313" />
+        <Background Type="CT_RAW" Source="00131313" />
         <Foreground Type="CT_RAW" Source="FF9CDCFE" />
       </Color>
       <Color Name="String">
-        <Background Type="CT_RAW" Source="FF131313" />
+        <Background Type="CT_RAW" Source="00131313" />
         <Foreground Type="CT_RAW" Source="FFCE9178" />
       </Color>
       <Color Name="Number">
-        <Background Type="CT_RAW" Source="FF131313" />
+        <Background Type="CT_RAW" Source="00131313" />
         <Foreground Type="CT_RAW" Source="FFA6BD9A" />
       </Color>
       <Color Name="XML CData Section">
@@ -7884,7 +7884,7 @@
       </Color>
       <Color Name="XAML Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FFB63C20" />
       </Color>
       <Color Name="XAML Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7936,7 +7936,7 @@
       </Color>
       <Color Name="XML Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FFB63C20" />
       </Color>
       <Color Name="XML Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7964,7 +7964,7 @@
       </Color>
       <Color Name="XSLT Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FFB63C20" />
       </Color>
       <Color Name="Memory Data">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7977,7 +7977,7 @@
     </Category>
     <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF131313" />
+        <Background Type="CT_RAW" Source="00131313" />
         <Foreground Type="CT_RAW" Source="FFA3ACAB" />
       </Color>
       <Color Name="Selected Text">
@@ -7994,7 +7994,7 @@
       </Color>
       <Color Name="Visible Whitespace">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF262626" />
+        <Foreground Type="CT_RAW" Source="00262626" />
       </Color>
     </Category>
     <Category Name="Text Editor Text Marker Items" GUID="{ff349800-ea43-46c1-8c98-878e78f46501}">
@@ -8546,8 +8546,8 @@
     </Category>
     <Category Name="TreeView" GUID="{92ecf08e-8b13-4cf4-99e9-ae2692382185}">
       <Color Name="Background">
-        <Background Type="CT_RAW" Source="FF030303" />
-        <Foreground Type="CT_RAW" Source="FF818181" />
+        <Background Type="CT_RAW" Source="00131313" />
+        <Foreground Type="CT_RAW" Source="FFA09E9E" />
       </Color>
       <Color Name="DragDropInsertionArrow">
         <Background Type="CT_RAW" Source="FFE51400" />
