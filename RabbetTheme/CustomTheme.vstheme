@@ -2708,7 +2708,7 @@
       </Color>
       <Color Name="property name">
         <Background Type="CT_RAW" Source="FF131313" />
-        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
+        <Foreground Type="CT_RAW" Source="FFABB7FF" />
       </Color>
       <Color Name="event name">
         <Background Type="CT_RAW" Source="FF131313" />
