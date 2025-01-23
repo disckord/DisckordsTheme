@@ -62,7 +62,7 @@ namespace CSharpExample
 
         public Main()
         {
-        
+            AddStatic(1, 1);
         }
 
         public void Bruh<Type>()
